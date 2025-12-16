@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\",
+  "WorkspaceRootPath": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\\u0430\u0440\u0441\u0435\u043D\\source\\repos\\isa_lab6\\ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\maxim\\source\\repos\\isa_lab6\\intermediateenglishcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|solutionrelative:intermediateenglishcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\maxim\\source\\repos\\isa_lab6\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\maxim\\source\\repos\\isa_lab6\\ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|solutionrelative:ibankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\\u0430\u0440\u0441\u0435\u043D\\source\\repos\\isa_lab6\\employeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\maxim\\source\\repos\\isa_lab6\\employeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|solutionrelative:employeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\\u0430\u0440\u0441\u0435\u043D\\source\\repos\\isa_lab6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\maxim\\source\\repos\\isa_lab6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|c:\\users\\\u0430\u0440\u0441\u0435\u043D\\source\\repos\\isa_lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D809CCF-00DC-4D94-A160-5240A0AE8767}|ISA_Lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,59 +38,76 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IBankService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\IBankService.cs",
-              "RelativeDocumentMoniker": "IBankService.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\IBankService.cs",
-              "RelativeToolTip": "IBankService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "IntermediateEnglishCertificate.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\IntermediateEnglishCertificate.cs",
+              "RelativeDocumentMoniker": "IntermediateEnglishCertificate.cs",
+              "ToolTip": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\IntermediateEnglishCertificate.cs",
+              "RelativeToolTip": "IntermediateEnglishCertificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T16:48:28.862Z",
+              "WhenOpened": "2025-12-16T00:23:46.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\EmployeeDecorator.cs",
-              "RelativeDocumentMoniker": "EmployeeDecorator.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\EmployeeDecorator.cs",
-              "RelativeToolTip": "EmployeeDecorator.cs",
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T16:48:28.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T00:23:44.074Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\Employee.cs",
-              "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\Employee.cs",
-              "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IBankService.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\IBankService.cs",
+              "RelativeDocumentMoniker": "IBankService.cs",
+              "ToolTip": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\IBankService.cs",
+              "RelativeToolTip": "IBankService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T16:48:26.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T16:48:28.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\\source\\repos\\ISA_Lab6\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "Title": "EmployeeDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\EmployeeDecorator.cs",
+              "RelativeDocumentMoniker": "EmployeeDecorator.cs",
+              "ToolTip": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\EmployeeDecorator.cs",
+              "RelativeToolTip": "EmployeeDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T14:32:22.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T16:48:28.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\Maxim\\source\\repos\\ISA_Lab6\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:48:26.794Z"
             }
           ]
         }

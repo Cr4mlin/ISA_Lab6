@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ISA_Lab6/1.0.0": {
+        "runtime": {
+          "ISA_Lab6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISA_Lab6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
